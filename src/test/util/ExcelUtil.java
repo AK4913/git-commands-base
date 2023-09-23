@@ -6,6 +6,6 @@ public class ExcelUtil {
 
     // This is a new method for reading the file
 
-    //This method change the file ext
+    //This method changes the file ext
 
 }
